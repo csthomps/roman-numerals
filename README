@@ -1,0 +1,4 @@
+Roman numeral algorithm
+
+I made this mostly to test out input validation and also to learn about roman numerals
+allows to enter any number up to 5000, in either number or roman numeral form, and convert it to other format
